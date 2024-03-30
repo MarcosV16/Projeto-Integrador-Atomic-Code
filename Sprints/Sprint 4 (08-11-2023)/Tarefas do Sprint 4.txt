@@ -1,0 +1,3 @@
+Tarefas Sequenciais;
+Levantamento de custos e cronograma de execução (Início do semestre até o final);
+Protótipo de alta fidelidade feito no figma.

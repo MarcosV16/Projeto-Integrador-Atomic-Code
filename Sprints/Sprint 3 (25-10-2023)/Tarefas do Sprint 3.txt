@@ -1,0 +1,9 @@
+Versão intermediária da solução;
+Relatório atualizado;
+Mapa de Persona;
+Mapa de Empatia;
+Requisitos detalhados;
+Escopo e não escopo;
+Estrutura analítica de projeto e Dicionário da EAP;
+Matriz de responsabilidade - RACI;
+Versão de baixo nível da solução feita em papel.

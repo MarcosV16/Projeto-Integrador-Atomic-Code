@@ -1,0 +1,9 @@
+APLICATIVO PARA AVALIAR A SESSÃO PÔSTER E ORAL DO SIMPAC
+
+ A demanda consiste em modernizar o processo de avaliação dos trabalhos
+durante o evento, possibilitando a avaliação por meio de um sistema de
+aplicativo.
+ O professor receberia e baixaria o aplicativo ou acessaria o sistema web em seu dispositivo móvel e poderia realizar a avaliação instantaneamente,
+resultando na geração imediata da pontuação para a comissão do SIMPAC.
+ As fichas de avaliação para referência já estão com a Gestora de projetos
+(Cristiane Lana).

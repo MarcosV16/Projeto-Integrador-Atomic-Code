@@ -1,0 +1,11 @@
+Definições dos Pepéis:
+
+CEO(Marcos Vinicius): É o diretor executivo, que tem a função de resolver e tomar decisões importantes, gerenciar recursos e operações gerais de uma organização e atuar como ponto central de comunicação entre o operacional e a administração.
+
+Scrum Master:  É o responsável por gerenciar todo o processo de implementação da metodologia scrum, o que geralmente representa um profissional com experiência na aplicação desse conceito e busca orientar todos profissionais que vão participar desse processo. Terá que aplicar o Scrum junto ao Trello.
+
+Product Owner: É o responsável por garantir que todo o time envolvido nesse projeto esteja fazendo o seu máximo e utilizando os recursos disponíveis da maneira mais eficiente.
+
+Designer: É a pessoa que trabalha com design, com o projeto de criação gráfica e esquemática de representação de algo. 
+
+Analista de Sistema: É o responsável pela captura das regras de negócio, dos requisitos de sistema e documentos de apoio ao desenvolvimento
