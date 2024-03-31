@@ -1,6 +1,6 @@
 # Estudo de Caso de UX/UI - Projeto SIMPAC
 
-![Logo Atomic Code](".\Code.jpeg")
+![Logo Atomic Code]("Atomic-Code/Logo-Atomic-Code.jpeg")
 
 ## O Que (WHAT)
 ### Introdução
