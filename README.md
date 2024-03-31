@@ -1,6 +1,6 @@
 # Estudo de Caso de UX/UI - Projeto SIMPAC
 
-![Logo Atomic Code]("C:\Users\marco\Área de Trabalho\Univiçosa\2º Período\ADS401 - Design de Interação e Projeto Integrador\Atividades, Trabalhos e Correções\Projeto Integrador\Atomic Code\Logo Atomic Code.jpeg")
+![Logo Atomic Code](".\Code.jpeg")
 
 ## O Que (WHAT)
 ### Introdução
@@ -71,8 +71,8 @@ No final, Marcos não era apenas um organizador; ela se tornou uma verdadeiro gu
 
 ## Personas
 Baseado no storytelling, as personas foram criadas para representar os stakeholders.
-![persona](./Processos/Sprint_3/Relatorio%20Atualizado/Persona-1_page-0001.jpg)
-![persona2](./Processos/Sprint_3/Relatorio%20Atualizado/Persona-1_page-0002.jpg)
+![persona](".\Persona.pdf")
+
 
 ---
 
@@ -80,8 +80,8 @@ Baseado no storytelling, as personas foram criadas para representar os stakehold
 
 ### Mapa de Empatia
 - Para entender melhor as necessidades dos stakeholders, utilizamos o mapa de empatia, assim tivemos uma visão de onde focar nossos estudos para criarmos uma solução de agrado a todos.
-![Mapa_Empatia](./Processos/Sprint_3/Relatorio%20Atualizado/Mapa_de_Empatia_1.pdf.png)
-![Mapa_Empatia2](./Processos/Sprint_3/Relatorio%20Atualizado/Mapa_de_Empatia_2.pdf.png)
+![Mapa_Empatia]("25-10-2023)\Mapa de Empatia 1.pdf")
+![Mapa_Empatia2]("25-10-2023)\Mapa de Empatia 2.pdf")
 
 ### Pesquisa e Descoberta
 #### Metodologia
@@ -109,14 +109,14 @@ Baseado no storytelling, as personas foram criadas para representar os stakehold
 
 - Versão de baixo nível no papel
 
-![V.1 Atomic Code](./Processos/Sprint_3/V.%20Intermediaria%20da%20solucao/d-1%20papel.jpg)
-![V.1-1 Atomic Code](./Processos/Sprint_3/V.%20Intermediaria%20da%20solucao/d1.1%20papel.jpg)
-![V.1-2 Atomic Code](./Processos/Sprint_3/V.%20Intermediaria%20da%20solucao/d-1.2%20papel.jpg)
+![V.1 Atomic Code]("25-10-2023)\Versão de baixo nível 1.jpg")
+![V.1-1 Atomic Code]("25-10-2023)\Versão de baixo nível 2.jpg")
+![V.1-2 Atomic Code]("25-10-2023)\Versão de baixo nível 3.jpg")
 
 ### Fluxograma
 - Foi organizado um fluxograma para orgarnizar as informações, identificar ações que podem ser feitas para os objetivos da organização ou avaliador.
 
-![Fluxograma](./Processos/Sprint_4/Fluxograma%20SIMPAC.png)
+![Fluxograma]("08-11-2023)\Fluxograma SIMPAC.png")
 
 ### Wireframe
 A partir do fluxograma, foi criado então o wireframe, que é uma representação visual básica e esquemática da estrutura de nossa aplicação web. Seu objetivo principal pe definir a distribuição de elementos da natela, sem se preocupar muito com detalhes visuais.
@@ -127,11 +127,11 @@ A partir do fluxograma, foi criado então o wireframe, que é uma representaçã
 -  O Avaliador quando terminar suas avaliações lhe será mostrado uma tabela com informações de seus votos e caso o mesmo queira trocar ele terá a oportunidade.
 - Para os resultados, que serão disponíveis apenas à organização do evento, lhe será disposto um login e ao entrar, basta escolher o curso que deseja olhar no momento, e será mostrado uma tabela com as notas tanto em poster quanto apresentações orais.
 
-![Wireframe](./Processos/Sprint_4/Wireframe.png)
+![Wireframe]("08-11-2023)\Wireframe.png")
 
 ### Protótipo de Media Fidelidade
 - Pelo aplicativo Figma foi desenvolvido um protótipo de média fidelidade, com o uso de componentes para simular botões e passando uma ideia de como funcionaria a aplicação.
-![Visão_Prancheta](./Processos/Sprint_3/V.%20Intermediaria%20da%20solucao/Visão%20alta.png) 
+![Visão_Prancheta]("08-11-2023)\Visão alta.png") 
 
 # Protótipo de Alta Fidelidade
 
