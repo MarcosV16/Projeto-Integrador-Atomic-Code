@@ -71,7 +71,7 @@ No final, Marcos não era apenas um organizador; ela se tornou uma verdadeiro gu
 
 ## Personas
 Baseado no storytelling, as personas foram criadas para representar os stakeholders.
-![persona](./Sprints/Sprint%203%20(25-10-2023)/Persona.pdf)
+![persona](./Sprints/Sprint%203%20(25-10-2023)/)
 
 
 ---
@@ -80,7 +80,7 @@ Baseado no storytelling, as personas foram criadas para representar os stakehold
 
 ### Mapa de Empatia
 - Para entender melhor as necessidades dos stakeholders, utilizamos o mapa de empatia, assim tivemos uma visão de onde focar nossos estudos para criarmos uma solução de agrado a todos.
-![Mapa_Empatia](./Sprints/Sprint%203%20(25-10-2023)/Mapa_Empatia)
+![Mapa_Empatia]()
 ![Mapa_Empatia2](./Sprints/Sprint%203%20(25-10-2023)/Mapa_Empatia2)
 
 ### Pesquisa e Descoberta
