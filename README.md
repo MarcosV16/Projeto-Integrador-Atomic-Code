@@ -1,6 +1,6 @@
 # Estudo de Caso de UX/UI - Projeto SIMPAC
 
-![Logo Atomic Code]("Atomic-Code/Logo-Atomic-Code.jpeg")
+![Logo Atomic Code](./Atomic%20Code/Logo%20Atomic%20Code.jpeg)
 
 ## O Que (WHAT)
 ### Introdução
@@ -71,7 +71,7 @@ No final, Marcos não era apenas um organizador; ela se tornou uma verdadeiro gu
 
 ## Personas
 Baseado no storytelling, as personas foram criadas para representar os stakeholders.
-![persona](".\Persona.pdf")
+![persona](./Sprints/Sprint%203%20(25-10-2023)/Persona.pdf)
 
 
 ---
@@ -80,8 +80,8 @@ Baseado no storytelling, as personas foram criadas para representar os stakehold
 
 ### Mapa de Empatia
 - Para entender melhor as necessidades dos stakeholders, utilizamos o mapa de empatia, assim tivemos uma visão de onde focar nossos estudos para criarmos uma solução de agrado a todos.
-![Mapa_Empatia]("25-10-2023)\Mapa de Empatia 1.pdf")
-![Mapa_Empatia2]("25-10-2023)\Mapa de Empatia 2.pdf")
+![Mapa_Empatia](./Sprints/Sprint%203%20(25-10-2023)/Mapa_Empatia)
+![Mapa_Empatia2](./Sprints/Sprint%203%20(25-10-2023)/Mapa_Empatia2)
 
 ### Pesquisa e Descoberta
 #### Metodologia
